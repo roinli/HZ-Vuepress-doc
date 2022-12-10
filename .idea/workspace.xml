@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea5b9f87-68ef-47e7-a6e2-cf3507ec1d76" name="Default Changelist" comment="" />
+    <list default="true" id="ea5b9f87-68ef-47e7-a6e2-cf3507ec1d76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/01.主题初衷与诞生.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/02.介绍.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/03.快速上手.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/04.目录结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/05.核心配置和约定.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/06.自动生成front matter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/07.Markdown 容器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/08.Markdown 中使用组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/03.使目录栏支持h2~h6标题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/06.如何让你的笔记更有表现力.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/07.批量操作front matter工具.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/08.部署.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/09.关于写文章和一级标题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/10.关于博客搭建与管理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/11.在线编辑和新增文章的方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/06.赞助/01.赞助.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/06.赞助/01.赞助.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,12 +34,120 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.MD">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/07.Markdown 容器.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="320">
-                <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/08.Markdown 中使用组件.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/03.使目录栏支持h2~h6标题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="25" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/06.如何让你的笔记更有表现力.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+                <folding>
+                  <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/07.批量操作front matter工具.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/08.部署.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/09.关于写文章和一级标题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/10.关于博客搭建与管理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/11.在线编辑和新增文章的方法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="126">
+                <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,14 +158,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>GitHub</find>
-      <find>https://github.com/roinli/vuepress-theme-jingli</find>
-      <find>https://github.com/xugaoyi</find>
-      <find>0.4pp7r95mdai0.jpeg</find>
-      <find>本站主题</find>
-      <find>MIT License</find>
-      <find>Theme by</find>
-      <find>class=&quot;icons&quot;</find>
       <find>2022</find>
       <find>赞助</find>
       <find>JINGLI 鲸哩 | MIT License</find>
@@ -59,6 +180,14 @@
       <find>xugaoyi/vuepress-theme-vdoing</find>
       <find>支持这个项目</find>
       <find>如果您有不错的资源</find>
+      <find>jinglivdoing</find>
+      <find>a20ce8</find>
+      <find>支持</find>
+      <find>https://cdn.staticaly.com/gh/roinli/blog-gitalk-comment@master/img/431669861564_.2470ykdcpbds.jpg</find>
+      <find>52d5c3</find>
+      <find>主题配置</find>
+      <find>本站源码</find>
+      <find>慧哥爱code</find>
     </findStrings>
     <replaceStrings>
       <replace>vuepress-theme-jingli</replace>
@@ -77,26 +206,39 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/index.md" />
         <option value="$PROJECT_DIR$/docs/04.案例/01.案例.md" />
-        <option value="$PROJECT_DIR$/docs/06.赞助/01.赞助.md" />
         <option value="$PROJECT_DIR$/docs/03.资源/01.资源.md" />
-        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js" />
+        <option value="$PROJECT_DIR$/docs/index.md" />
+        <option value="$PROJECT_DIR$/docs/06.赞助/01.赞助.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.指南/03.快速上手.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.指南/04.目录结构.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.指南/05.核心配置和约定.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.指南/06.自动生成front matter.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.指南/07.Markdown 容器.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.指南/08.Markdown 中使用组件.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/02.相关文章/03.使目录栏支持h2~h6标题.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/02.相关文章/06.如何让你的笔记更有表现力.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/02.相关文章/07.批量操作front matter工具.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/02.相关文章/08.部署.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/02.相关文章/09.关于写文章和一级标题.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/02.相关文章/10.关于博客搭建与管理.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/02.相关文章/11.在线编辑和新增文章的方法.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.指南/01.主题初衷与诞生.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.指南/02.介绍.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/02.介绍.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/03.快速上手.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/04.目录结构.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/05.核心配置和约定.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/06.自动生成front matter.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/07.Markdown 容器.md" />
+        <option value="$PROJECT_DIR$/docs/07.充电桩产品/01.平台/08.Markdown 中使用组件.md" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vuepress-theme-jingli.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
@@ -131,16 +273,25 @@
               <item name="vuepress-theme-jingli" type="b2602c69:ProjectViewProjectNode" />
               <item name="vuepress-theme-jingli" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="01.指南" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vuepress-theme-jingli" type="b2602c69:ProjectViewProjectNode" />
               <item name="vuepress-theme-jingli" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="01.指南" type="462c0819:PsiDirectoryNode" />
+              <item name="01.指南" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vuepress-theme-jingli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuepress-theme-jingli" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="@pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vuepress-theme-jingli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuepress-theme-jingli" type="462c0819:PsiDirectoryNode" />
+              <item name="jingli" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +303,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/public/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/07.充电桩产品/01.平台" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -160,6 +311,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\MyVuepess\vuepress-theme-jingli\docs\07.充电桩产品\01.平台" />
+      <recent name="C:\workspace\MyVuepess\vuepress-theme-jingli\docs" />
       <recent name="C:\workspace\MyVuepess\vuepress-theme-vdoing-doc-master\docs\.vuepress\public\img" />
       <recent name="C:\workspace\MyVuepess\vuepress-theme-vdoing-doc-master\docs\03.资源" />
     </key>
@@ -278,16 +431,33 @@
       <workItem from="1670664658511" duration="9841000" />
       <workItem from="1670674566667" duration="1106000" />
     </task>
+    <task id="LOCAL-00001" summary="2022.12.10 vuepress-theme-jingli 鲸哩文档 v1.1.3">
+      <created>1670685808778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670685808778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20512000" />
+    <option name="totallyTimeSpent" value="26520000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2494043" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -296,14 +466,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="npm" order="7" side_tool="true" />
       <window_info id="Nl-Palette" order="8" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33216783" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -328,16 +499,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="npm" order="7" side_tool="true" />
       <window_info id="Nl-Palette" order="8" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.43804538" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32867134" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33216783" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -353,6 +525,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022.12.10 vuepress-theme-jingli 鲸哩文档 v1.1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.12.10 vuepress-theme-jingli 鲸哩文档 v1.1.3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/plugins/love-me/love-me.js">
@@ -383,14 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/@pages/archivesPage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/modules/fn.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-158" />
@@ -406,33 +574,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01.指南/01.指南/01.主题初衷与诞生.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/01.指南/02.相关文章/03.使目录栏支持h2~h6标题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <marker date="1670675062729" expanded="true" signature="658:1910" ph="{&quot;pageT&quot;: `&#10;    &lt;div class=&quot;wwads-cn wwads-horizontal page-wwads&quot; data-id=&quot;136&quot;&gt;&lt;/div&gt;&#10;    &lt;style&gt;&#10;      .page-wwads{&#10;        width:100%!important;&#10;        min-height: 0;&#10;        margin: 0;&#10;      }&#10;      .page-wwads .wwads-img img{&#10;        width:80px!important;&#10;      }&#10;      .page-wwads .wwads-poweredby{&#10;        width: 40px;&#10;        position: absolute;&#10;        right: 25px;&#10;        bottom: 3px;&#10;      }&#10;      .wwads-content .wwads-text, .page-wwads .wwads-text{&#10;        height: 100%;&#10;        padding-top: 5px;&#10;        display: block;&#10;      }&#10;  &lt;/style&gt;&#10;  `...}" />
-            <marker date="1670675062729" expanded="true" signature="1493:1908" ph="//..." />
-            <marker date="1670675062729" expanded="true" signature="1913:2623" ph="//..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -462,24 +608,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
             <caret line="3" column="24" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01.指南/01.指南/08.Markdown 中使用组件.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1059" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01.指南/01.指南/06.自动生成front matter.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1689">
-            <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
@@ -516,26 +644,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="378">
-            <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1416" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.b08954b5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="15" column="287147" selection-start-line="15" selection-start-column="287147" selection-end-line="15" selection-end-column="287147" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/03.资源/01.资源.md">
@@ -548,11 +659,329 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01.指南/01.指南/07.Markdown 容器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01.指南/01.指南/08.Markdown 中使用组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01.指南/01.指南/06.自动生成front matter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="92">
+            <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="151">
+            <caret line="68" column="11" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/06.赞助/01.赞助.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-104">
-            <caret line="18" column="154" selection-start-line="18" selection-start-column="154" selection-end-line="18" selection-end-column="154" />
+          <first_editor relative-caret-position="182">
+            <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01.指南/01.指南/01.主题初衷与诞生.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="522">
+            <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.指南/03.快速上手.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.指南/05.核心配置和约定.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.指南/06.自动生成front matter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.指南/07.Markdown 容器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.指南/08.Markdown 中使用组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.指南/04.目录结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1080">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/@pages/archivesPage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.指南/02.介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-144">
+            <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/01.主题初衷与诞生.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.b08954b5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="137387" selection-start-line="15" selection-start-column="137387" selection-end-line="15" selection-end-column="137387" />
+          <folding>
+            <element signature="e#178#182#0" expanded="true" />
+            <element signature="e#191#196#0" expanded="true" />
+            <element signature="e#198#202#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#1;n#iframe#1;n#iframe#0;n#mark#0;n#!!top" expanded="true" />
+            <element signature="e#178#182#0" expanded="true" />
+            <element signature="e#191#196#0" expanded="true" />
+            <element signature="e#198#202#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#1;n#iframe#1;n#iframe#0;n#mark#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/02.介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/03.快速上手.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/04.目录结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/05.核心配置和约定.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/06.自动生成front matter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/07.Markdown 容器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/01.平台/08.Markdown 中使用组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/07.批量操作front matter工具.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/08.部署.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/09.关于写文章和一级标题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/10.关于博客搭建与管理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/11.在线编辑和新增文章的方法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/06.如何让你的笔记更有表现力.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <folding>
+              <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/07.充电桩产品/02.硬件/03.使目录栏支持h2~h6标题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
@@ -560,18 +989,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="320">
-            <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="230">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>

@@ -23,8 +23,15 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      /*{ text: '充电桩产品', link: '/', items: [
+          { text: '平台', link: '/pages/52d5c31/'
+          },
+          {
+            text: '硬件',  link: '/pages/8dfab51/' }
+        ]
+      },*/
       {
-        text: '指南', link: '/pages/a2f161/', items: [
+        text: '指南', link: '/pages/52d5c31/', items: [
   { text: '主题初衷与诞生', link: '/pages/52d5c3/' },
           { text: '介绍', link: '/pages/a2f161/' },
           { text: '快速上手', link: '/pages/793dcb/' },
@@ -59,7 +66,7 @@ module.exports = {
       },
       // { text: '案例', link: '/pages/5d571c/' },
       // { text: '问答', link: '/pages/9cc27d/' },
-      { text: '鲸哩文档', link: '#', items: [
+      { text: '源码', link: '#', items: [
           { text: '源码', link: '/pages/1b12ed/' },
           { text: '问答', link: '/pages/9cc27d/' },
           { text: '资源', link: '/pages/db78e2/' }

@@ -7,7 +7,7 @@
 
  [文档](http://doc.nxptdn.com/)  |
  [效果](http://doc.nxptdn.com/)  |
- [本仓库的gitee镜像](https://gitee.com/roinli/vuepress-theme-jingli)
+ [本仓库的gitee镜像](https://gitee.com/jingli1234/vuepress-theme-jingli)
 
 <br/>
 
